@@ -47,10 +47,13 @@ $ streamlit run app.py
 </br>
 
 ## Other Content
-**Images of the Application**
+**Images of the Application**</br>
+
 ![Entry Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/2.png)
 </br>
+
 ![Mark Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/3.png)
+
 </br>
 ![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
 
