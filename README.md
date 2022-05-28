@@ -14,4 +14,12 @@ The Application can ->
 2. Streamlit
 3. Dlib
 4. Face Recognition
-5. OpenCV
+5. OpenCV </br>
+
+## How to Run
+* Clone the repository
+* Setup Virtual Environment
+
+```
+$ python3 -m venv env
+```
