@@ -44,3 +44,12 @@ $ pip install -r requirements.txt
 ```
 $ streamlit run app.py
 ```
+</br>
+
+## Other Content
+**Images of the Application**
+![Entry Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/2.png)
+![Mark Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/3.png)
+![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
+
+
