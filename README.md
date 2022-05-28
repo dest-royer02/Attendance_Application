@@ -53,8 +53,8 @@ $ streamlit run app.py
 </br>
 
 ![Mark Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/3.png)
-
 </br>
+
 ![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
 
 
