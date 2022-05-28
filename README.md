@@ -18,8 +18,27 @@ The Application can ->
 
 ## How to Run
 * Clone the repository
+
+```
+$ git clone https://github.com/dest-royer02/Attendance_Application.git
+```
 * Setup Virtual Environment
 
 ```
 $ python3 -m venv env
+```
+* Activate the virtual environment
+
+```
+$ env\Scripts\activate
+```
+* Install dependencies using
+
+```
+$ pip install -r requirements.txt
+```
+* Run Streamlit
+
+```
+$ streamlit run app.py
 ```
