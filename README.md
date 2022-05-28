@@ -1,9 +1,8 @@
-# Attendance Application
-</br>
-</br>
+# Attendance Application</br>
+
 ## Introduction
-A basic Attendance Management Web Application using Face Recognition built under **Microsoft Engage'22**.  
-</br>
+A basic Attendance Management Web Application using Face Recognition built under **Microsoft Engage'22**. </br>
+
 ## Features
 The Application can ->
 * enter a new student's name and upload picture of him/her.
